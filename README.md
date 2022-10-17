@@ -43,7 +43,7 @@ You will need NPM and Firebase CLI to run this.
 
 ### Deploying to Firebase Cloud Functions
    ```sh
-   npm run build
+   npm run deploy
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
