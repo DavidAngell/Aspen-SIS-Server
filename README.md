@@ -4,9 +4,12 @@
 # Aspen Student Information System Server
 A implementation of my [Aspen-SIS npm package](https://github.com/DavidAngell/Aspen-SIS) for firebase cloud servers
 
+<!-- MY HOSTED ENDPOINT -->
+## My Hosted Endpoint
+You can use my hosted endpoint to test the api. The endpoint is located at https://us-central1-betteraspen.cloudfunctions.net/app
 
-<!-- HOSTING APP LOCALLY -->
-## Hosting App Locally
+<!-- HOSTING SERVER LOCALLY -->
+## Hosting Server Locally
 ### Prerequisites
 
 You will need NPM and Firebase CLI to run this.
@@ -38,7 +41,7 @@ You will need NPM and Firebase CLI to run this.
    npm run serve
    ```
 
-### Deploying to firebase cloud functions
+### Deploying to Firebase Cloud Functions
    ```sh
    npm run build
    ```
@@ -77,3 +80,13 @@ David Angell - [@DavidJAngell42](https://twitter.com/DavidJAngell42) - davidjang
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<div align="center">
+	<br />
+  <h2>Support Me</h2>
+	<a href="https://paypal.me/davidjangell" align="center" target="_blank">
+		<img src="https://viatesting.files.wordpress.com/2020/03/paypal-donate-button.png" 
+  			width="200"
+ 		/>
+	</a>
+</div>
