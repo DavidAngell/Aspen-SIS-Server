@@ -79,4 +79,4 @@ app.get('/v1/getPortalClassList', (req, res) => {
         })
 });
 
-exports.app = functions.runWith({ minInstances: 5, timeoutSeconds: 60 }).https.onRequest(app);
+exports.api = functions.runWith({ minInstances: 5, timeoutSeconds: 60 }).https.onRequest(app);
