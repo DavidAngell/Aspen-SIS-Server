@@ -83,7 +83,7 @@ David Angell - [@DavidJAngell42](https://twitter.com/DavidJAngell42) - davidjang
 
 <div align="center">
 	<br />
-  <h2>Support Me</h2>
+  <h3>Support Me</h3>
 	<a href="https://paypal.me/davidjangell" align="center" target="_blank">
 		<img src="https://viatesting.files.wordpress.com/2020/03/paypal-donate-button.png" 
   			width="200"
